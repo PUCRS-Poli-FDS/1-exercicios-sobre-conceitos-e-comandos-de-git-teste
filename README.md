@@ -1,10 +1,10 @@
 # Exercícios sobre os conceitos e comandos do Git
 
 
-Hoje vamos fazer um estudo dirigido, praticando algumas operações do Git e respondendo algumas questões. O trabalho será realizado em duplas.
+Hoje vamos fazer um estudo dirigido, praticando algumas operações do Git e respondendo algumas questões. O trabalho será realizado em duplas, trabalhando em conjunto.
 Assim:
 
-* os primeiros 14 passos devem ser feitos em conjunto (em uma única máquina). Da 14 em diante, cada fará os passos na sua máquina (até o momento de trabalharem juntos novamente)
+* os primeiros 14 passos devem ser feitos em conjunto (em uma única máquina). Da 14 em diante, cada um fará os passos na sua máquina (até o momento de trabalharem juntos novamente)
 * para as operações, crie uma pasta na sua máquina local, e exercite no repositório. Ao final, o repositório será compartilhdo no Github;
 * para as questões teóricas, crie um arquivo texto com o nome "respostas.txt" e coloque-o na raiz da pasta do repositório.
 * além das respostas as perguntas, liste os comandos utilizados em cada atividade no arquivo de respostas (identifique a resposta com o número da atividade)
