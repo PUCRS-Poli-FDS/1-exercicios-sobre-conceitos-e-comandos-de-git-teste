@@ -1,7 +1,7 @@
 # Exercícios sobre os conceitos e comandos do Git
 
 
-Hoje vamos fazer um estudo dirigido, praticando algumas operações do Git e respondendo algumas questões. O trabalho será realizado em duplas, trabalhando em conjunto.
+Hoje vamos fazer um estudo dirigido, praticando algumas operações do Git. O trabalho será realizado em duplas, trabalhando em conjunto.
 Assim:
 
 * os primeiros 14 passos devem ser feitos em conjunto (em uma única máquina). Da 14 em diante, cada um fará os passos na sua máquina (até o momento de trabalharem juntos novamente)
@@ -10,11 +10,14 @@ Assim:
 * além das respostas as perguntas, liste os comandos utilizados em cada atividade no arquivo de respostas (identifique a resposta com o número da atividade)
 
 ## Passos
-1. Pergunta: qual a diferença entre sistemas de controle de versão centralizados e sistemas de controle de versão distribuídos?
-1. Pergunta: explique claramente o que são as três áreas do repositório local do git.
-1. Pergunta: como o git identifica cada commit, uma vez que os repositórios são distribuídos?
-1. Atividade: crie uma pasta local, inicialize o repositório, crie o arquivo "respostas.txt" na pasta.
-1. Atividade: configure seu nome e email, para quando os commits forem executados.
+1. Crie uma pasta para seu projeto. A seguir inicialize a pasta como um projeto git.
+   * Dica: git init
+1. Configure se user name e seu email.
+   * Dica: git config
+1. Crie alguns arquivos na pasta do projeto.
+1. Adicione estes arquivos na área de stage.
+   * Dica: git add
+1. Coloque seus 
 1. Atividade: crie duas pastas: "java" e "testes". Crie, na pasta Java, um arquivo "Hello.java" que imprime na tela a frase "Hello, World!" (não é preciso fazer nada no arquivo "respostas.txt").
 1. Atividade: adicione esta estrutura à área de *staging*
 1. Atividade: coloque as modificações da área de *staging* no repositório (faça *commit*)
